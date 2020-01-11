@@ -3,8 +3,8 @@
 Este es un ejercicio donde almacenamos en un archivo JSON todas las tareas por completar o completadas.
 
 Te permite realizar un CRUD de las tareas.
+- Crear
 - Eliminar
-- Borrar
 - Actualizar
 - Listar
 
